@@ -1,0 +1,7 @@
+body {
+  background: url(./images/ceu-estrelado.png);
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  /* background-size: cover; */
+}
